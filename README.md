@@ -81,7 +81,7 @@ Estatísticas atualizadas automaticamente com [lowlighter/metrics](https://githu
 
 ## 🌱 Sempre aprendendo
 
-Tenho interesse especial em arquitetura de software, sistemas distribuídos, desempenho, modelos de IA executados localmente e maneiras de transformar tecnologia em produtos sustentáveis.
+Tenho interesse especial em arquitetura de software, sistemas distribuídos, desempenho, modelos de IA executados localmente e, principalmente, na busca por inovações tecnológicas que simplifiquem o dia a dia, facilitem a vida das pessoas e transformem ideias em produtos úteis, acessíveis e sustentáveis.
 
 ## 🤝 Contato
 
